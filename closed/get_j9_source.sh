@@ -63,10 +63,10 @@ declare -A git_urls
 declare -A shas
 declare -A references
 
-git_urls[openj9]=https://github.com/eclipse-openj9/openj9
+git_urls[openj9]=https://github.com/yathamravali/openj9
 git_urls[omr]=https://github.com/eclipse-openj9/openj9-omr
 
-branches[openj9]=v0.44.0-release
+branches[openj9]=testpatch19744
 branches[omr]=v0.44.0-release
 
 pflag=false
